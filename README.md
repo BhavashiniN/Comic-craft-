@@ -31,6 +31,5 @@ Downloadable comic books
 Interactive storytelling
 Project Team
 Project Name: Coming Craft – AI Comic Story
-Department: B.Sc. Data Science
  Conclusion
 Coming Craft – AI Comic Story demonstrates how AI can be used to combine technology and creativity. It provides an easy way for users to turn simple ideas into engaging comic stories.
